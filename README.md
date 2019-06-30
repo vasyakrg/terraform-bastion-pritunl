@@ -17,8 +17,8 @@
 
 ### Видео-урок
   * Запись по работе с проектом можно посмотреть [тут](https://youtu.be/dzLYKO_asGI)
-  * Этот и много других уроков [тут](vk.com/realmanual)
+  * Этот и много других уроков [тут](https://vk.com/realmanual)
 
 ##### Автор
  - **Vassiliy Yegorov** - *Initial work* - [vasyakrg](https://github.com/vasyakrg)
- - [сайт](vk.com/realmanual)
+ - [сайт](https://vk.com/realmanual)
