@@ -18,7 +18,7 @@ variable "zone_instance" {
 }
 
 variable "disk_image" {
-  default = "ubuntu-1604-lts"
+  default = "ubuntu-2004-lts"
 }
 
 variable "bastion_tag" {
